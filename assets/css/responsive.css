@@ -73,6 +73,7 @@
     }
     .header__with-search {
         justify-content: space-between;
+        align-items: flex-end;
     }
     .header__logo,
     .header__cart {
@@ -147,5 +148,17 @@
     }
     .footer__app {
         justify-content: center;
+    }
+    .mobile__search {
+        position: relative;
+        top: -7px;
+    }
+    .header__cart {
+        position: relative;
+        top: -7px;
+    }
+    .header__user {
+        position: relative;
+        top: -7px;
     }
 }
