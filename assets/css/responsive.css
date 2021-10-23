@@ -109,16 +109,16 @@
     }
 
     .product-item__name {
-        margin-top: 4px;
+        margin-top: 0;
     }
     .product-item__price {
-        margin-top: 4px;
+        margin-top: 0;
     }
     .product-item__action {
-        margin-top: 4px;
+        margin-top: 0;
     }
     .product-item__origin {
-        margin-top: 4px;
+        margin-top: 0;
     }
     .pagination__item {
         margin: 0;
